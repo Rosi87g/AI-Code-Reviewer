@@ -41,5 +41,8 @@ The app uses the @google/genai SDK to connect with Gemini. The key is loaded fro
 🔒 Security Tip
 Never commit your .env file to GitHub. Add it to .gitignore to keep your API key safe.
 
+<img width="1890" height="819" alt="image" src="https://github.com/user-attachments/assets/4a8783b8-7e66-43da-89e2-8c8fe17fd357" />
+
+
    
    
